@@ -1,9 +1,4 @@
-### Hi there 👋
 
-<!--
-**Haukern/Haukern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Jeg utforsker det ville vesten av koden min og prøver å temme de villeste linjene av den.
 - 🌱 Jeg plukker stadig opp nye språk og teknologier, akkurat som jeg plukker opp friske grønnsaker fra hagen min. Men ikke la meg stå for lenge i solen - jeg kan bli         litt crispy.
